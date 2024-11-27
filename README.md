@@ -1,6 +1,7 @@
 ### DAT535 - Data intensive systems and Algorithm
-# Title: _Big DATA ETL on Amazon Reviews using Spark_
+# _Big DATA ETL on Amazon Reviews using Spark_
 Bawfeh K. Kometa | Nourin A.M. Biswas
+
 ---
 ### A description of the file structure
 
