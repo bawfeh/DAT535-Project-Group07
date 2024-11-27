@@ -1,0 +1,19 @@
+Date: 20/11/2024 20:07
+=================================
+Assigning 3 core(s) per executor
+---------------------------------
+Executor memory: 6.0 GB
+Number of executors per node: 1.06667
+Distribution: [1, 1, 1, 1]
+
+Executors: 1
+Executor Cores: 3
+Executor Memory: 6g
+Driver Memory: 2g
+
+Extraction (all years) | Total execution time: ___25.42__ minutes
+Data sizes: [14583667, 36265612, 41015465, 39800789, 34223931, 26338014, 25153547]
+Execution times: [1955.6248579025269, 1732166737.2411323, 4115.174072265625, 1732168980.5727682, 6436.47349190712, 1732171366.4226227, 8879.016924619675]
+Data sizes: [14583667, 36265612, 41015465, 39800789, 34223931, 26338014, 25153547]
+Extraction (all years) | Total execution time: ___25.65__ minutes
+Extraction+Transformation ({year1}, {year2}) | Total execution time: ___166.48__ minutes

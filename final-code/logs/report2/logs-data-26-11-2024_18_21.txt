@@ -1,0 +1,17 @@
+Date: 26/11/2024 18:21
+=================================
+Assigning 3 core(s) per executor
+---------------------------------
+Executor memory: 6.0 GB
+Number of executors per node: 1.06667
+Distribution: [1, 1, 1]
+
+Executors: 1
+Executor Cores: 3
+Executor Memory: 6g
+Driver Memory: 2g
+Master: local
+
+Extraction+Transform+Load: Total execution time: ___60.56__ minutes
+------------------------------------------------------------------
+

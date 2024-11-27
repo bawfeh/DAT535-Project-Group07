@@ -1,0 +1,19 @@
+Date: 27/11/2024 11:37
+Executors: NA
+Executor Cores: NA
+Executor Memory: 512m
+Driver Memory: 2g
+Master: local
+
+Exec. time for first 6 categories: 7.705970561504364
+Exec. time for first 9 categories: 17.638415145874024
+Exec. time for first 15 categories: 25.49981455008189
+Exec. time for first 17 categories: 32.764873043696085
+Exec. time for first 21 categories: 39.08194923400879
+Exec. time for first 24 categories: 46.94864392677943
+Exec. time for first 27 categories: 56.417930769920346
+Exec. time for first 29 categories: 60.09534269968669
+# Evaluate how ETL scales with data volumes, 
+# by adding one category at a time, year fixed at 2023
+Execution times: [7.705970561504364, 17.638415145874024, 25.49981455008189, 32.764873043696085, 39.08194923400879, 46.94864392677943, 56.417930769920346, 60.09534269968669]
+Data sizes: [4.6347000000000005, 10.821, 15.4999, 20.4514, 24.7028, 29.381899999999998, 35.1845, 37.767999999999994]

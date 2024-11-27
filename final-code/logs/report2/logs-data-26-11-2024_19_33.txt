@@ -1,0 +1,10 @@
+Date: 26/11/2024 19:33
+Executors: NA
+Executor Cores: NA
+Executor Memory: 512m
+Driver Memory: 2g
+Master: local
+
+Extraction+Transform+Load: Total execution time: ___60.60__ minutes
+------------------------------------------------------------------
+
