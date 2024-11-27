@@ -1,4 +1,7 @@
-# DAT535-Project-Group07
+### DAT535-Project-Group07
+# Title: _Big DATA ETL on Amazon Reviews using Spark_
+Bawfeh K. Kometa | Nourin A.M. Biswas
+---
 ## A description of the file structure
 
 * _final-code_: Main folder
