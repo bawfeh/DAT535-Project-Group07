@@ -1,8 +1,8 @@
-### DAT535-Project-Group07
+### DAT535 - Data intensive systems and Algorithm
 # Title: _Big DATA ETL on Amazon Reviews using Spark_
 Bawfeh K. Kometa | Nourin A.M. Biswas
 ---
-## A description of the file structure
+### A description of the file structure
 
 * _final-code_: Main folder
   * _main.ipynb_: The main jupyter notebook contain code on use cases reported
