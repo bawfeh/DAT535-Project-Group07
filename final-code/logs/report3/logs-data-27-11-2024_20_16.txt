@@ -1,0 +1,8 @@
+Date: 27/11/2024 20:16
+Executors: NA
+Executor Cores: NA
+Executor Memory: 512m
+Driver Memory: 2g
+Master: local
+
+Extraction+Transformation ({year1}, {year2}) | Total execution time: ___93.52__ minutes
